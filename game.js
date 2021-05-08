@@ -1,7 +1,14 @@
+var userClickedPattern
+
 var buttonColours = ["red", "blue", "green", "yellow"];
 
 var gamePattern = [];
 
+$.button(clicked (){
+  var userChoosenColour = ("#" + randomChoosenColour)
+});
+
+$.document();
 function nextSequence() {
   var randomNumber = Math.floor(Math.random() * 4);
 
